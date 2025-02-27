@@ -1,5 +1,9 @@
 #  World COVID-19 Statistics App
 This app provides a visual representation of worldwide COVID-19 statistics, including cases, deaths, recoveries, and other relevant data. The data is represented using a pie chart and a list view of countries, allowing users to track COVID-19 statistics globally or by specific country.
+<img src="https://github.com/user-attachments/assets/79fc602e-d97d-4f73-81db-0b015f5bcdd1" alt="Image" width="400"  />
+<img src=" https://github.com/user-attachments/assets/210fd8e2-2bcc-46af-990b-1588e8e237e3" alt="Image" width="400"  />
+<img src="https://github.com/user-attachments/assets/85ecf009-cb0d-45e2-aa7f-28208cfc9cfa" alt="Image" width="400"  />
+<img src="https://github.com/user-attachments/assets/cbac7e29-479e-4b03-b1a7-29cc784837e1" alt="Image" width="400"  />
 
 ##  1. Features
     1. Global Statistics: Displays a summary of global COVID-19 cases, deaths, and recoveries.
