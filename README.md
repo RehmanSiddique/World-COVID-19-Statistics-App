@@ -19,9 +19,9 @@ This app provides a visual representation of worldwide COVID-19 statistics, incl
     3. Use the search bar to filter countries by name and tap on a country for detailed statistics.
 
 ##  4. Installation
-1. Clone the repository:
-- [get clone ](https://github.com/RehmanSiddique/World-COVID-19-Statistics-App)
-2. Install dependencies:
-- 'flutter pub get'
-3. Run the app:
-- 'flutter run' 
+    1. Clone the repository:
+    - [get clone ](https://github.com/RehmanSiddique/World-COVID-19-Statistics-App)
+    2. Install dependencies:
+    - 'flutter pub get'
+    3. Run the app:
+    - 'flutter run' 
